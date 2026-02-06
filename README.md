@@ -1,6 +1,6 @@
 # Hi, I'm Vedanshu 👋
 
-MERN Stack Developer  
+Full Stack Developer  
 📍 Matheran, India  
 Focused on building practical, production-style web applications.
 
