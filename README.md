@@ -17,6 +17,12 @@ Focused on building practical, production-style web applications.
 - **E-commerce Platform**  
   Product catalog, cart flow, order management, user authentication, REST APIs
 
+- **StackFeed**  
+  Ollama AI, Latest Tech News
+
+- **Music Recommendation**  
+  Powered by Ollama AI, suggest music according to moods
+
 - **CMS (Content Management System)**  
   Admin-managed content, full CRUD operations, structured role handling
 
